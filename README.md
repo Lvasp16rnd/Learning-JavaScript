@@ -16,4 +16,4 @@ I use Live Server, to download just go to the extensions and download
 To use it in your HTML file, just click on it in the file explorer with the right mouse button 
 ]and select the option “Open With Live Server” and you're done.
 
-PS: All the log commands appeared in the console of your page, which is available in the development tools.
+PS: All the log commands appeared in the console of your page, which is available in the development tools
