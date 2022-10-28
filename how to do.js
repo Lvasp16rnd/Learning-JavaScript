@@ -1,3 +1,7 @@
+//i'm writing in Portuguese to myself. this turns a little bit more easiest
+//to me
+
+
 //Variavéis
 
 //parecido com python
